@@ -116,8 +116,3 @@ Import this file if you want default touch events. Keep reading to learn how to 
   <a-entity camera></a-entity>
 </a-scene>
 ```
-
-## Credits
-Kudos to 8th wall for sharing their A-Frame Manipulate example!
-
-Bowser 3D model was made by [santiago3052008](https://sketchfab.com/santiago3052008) and can be found [here](https://sketchfab.com/3d-models/bowser-fa17f94ae350416f86c35db7c0e129c3)
